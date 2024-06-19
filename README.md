@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning a course in software development via [CodeSpace Academy](https://www.codespace.co.za/).
 - 👯 I’m looking to join an internship where I can gain experience.
 - 💬 Ask me about my gaming lifestyle.
-- 📫 Dm me on instagram [uzair.leite](https://www.instagram.com/uzair.leite/
+- 📫 Dm me on instagram [uzair.leite](https://www.instagram.com/uzair.leite/)
 
 <!--
 **UzairLeite/UzairLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
