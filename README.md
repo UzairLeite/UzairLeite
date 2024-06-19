@@ -4,11 +4,8 @@
 * My hobbies are:
   * Gaming🎮, eating🍣, sleeping😴, hiking🥾, watching anime and cartoons, buying and building lego, improving my overall coding skills and knowledge
 * My goal is to become a Full-Stack Developer.
-<!--
-**UzairLeite/UzairLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-**More information about me:**
+  **More information about me:**
 
 - 🔭 I’m currently doing part-time work in retail.
 - 🌱 I’m currently learning a course in software development [CodeSpace Academy]([url](https://www.codespace.co.za/)).
@@ -16,3 +13,4 @@
 - 💬 Ask me about my gaming lifestyle.
 - ⚡ Fun fact: ...
 - 📫 Dm me on instagram [uzair.leite]([url](https://www.instagram.com/uzair.leite/))
+**UzairLeite/UzairLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
