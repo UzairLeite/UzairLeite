@@ -1,4 +1,4 @@
-## Hello there < img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Uzair Leite! 
+## Hello there 👋 I am Uzair Leite! 
 
 * I am an aspiring software developer, and BA graduate of Game Design & Production
 * My hobbies are:
